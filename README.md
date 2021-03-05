@@ -17,7 +17,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">ZeroBandwidth's Original Easy Valheim Server Installer</h3>
+    <img src="https://user-images.githubusercontent.com/16698453/110078344-e4589680-7d87-11eb-98a8-90d5932d2240.PNG" />
+  <h3 align="center">Njord Menu</h3>
 
   <p align="center">
     So easy a Viking can do it!
@@ -280,5 +281,3 @@ Project Link: [https://github.com/Nimdy/Dedicated_Valheim_Server_Script](https:/
 * [Kurt - Debugging and Testing](#)
 * [LachlanMaco - Backup and Restore Functions](https://github.com/LachlanMac)
 * [beko - Correct KillSignal for Valheim Server](#)
-
-
